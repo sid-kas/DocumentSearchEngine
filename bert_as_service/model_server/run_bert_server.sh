@@ -1,0 +1,1 @@
+bert-serving-start -model_dir uncased_base -num_worker=4 -max_seq_len=NONE

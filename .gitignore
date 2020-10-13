@@ -1,0 +1,6 @@
+gpt2/custom/sv_corpus
+gpt2/simple_transformers/cache_dir
+gpt2/simple_transformers/outputs
+gpt2/simple_transformers/runs
+gpt2/simple_transformers/wandb
+report.*
