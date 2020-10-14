@@ -1,0 +1,27 @@
+name: tf2-gpu
+
+dependencies:
+  - python==3.7
+  - pip
+  - matplotlib
+  - opencv
+  - cudnn
+  - cudatoolkit==10.1.243
+  - pip:
+    - tensorflow-gpu==2.3
+    - transformers
+    - cmake
+    - dlib
+    - imutils
+    - Keras
+    - scipy
+    - numpy
+    - Pandas
+    - tqdm
+    - h5py
+    - tables
+    - lxml
+    - tqdm
+    - -e .
+
+    conda install -c conda-forge dlib

@@ -4,3 +4,4 @@ gpt2/simple_transformers/outputs
 gpt2/simple_transformers/runs
 gpt2/simple_transformers/wandb
 report.*
+gpt2/custom/model_gpt2_eng_sample
